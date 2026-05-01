@@ -1,1 +1,22 @@
+EventID: 4625 - Failed login
+User: admin
+Source IP: 192.168.1.10
 
+EventID: 4625 - Failed login
+User: admin
+Source IP: 192.168.1.10
+
+EventID: 4624 - Successful login
+User: admin
+Source IP: 192.168.1.10
+
+EventID: 4672 - Admin privileges assigned
+User: admin
+
+EventID: 4688 - Process created
+Process: powershell.exe
+Parent: winword.exe
+
+EventID: 4688 - Process created
+Process: cmd.exe
+Parent: powershell.exe
